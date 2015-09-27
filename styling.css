@@ -31,6 +31,12 @@ a:active {
 
 }
 
+.secondaryheader {
+	color: #550055;
+	font-size: 2em;
+	text-align: left;
+	text-shadow: 2px 2px #888888;
+}
 .internallink {
 	text-align: center;
 	font-size: 1.3em;
