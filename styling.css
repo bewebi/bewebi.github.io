@@ -1,14 +1,17 @@
-html * {
+body {
 	font-size: 1em;
 	color: #1A1A1A;
 	font-family: Arial;
-	background: #FFFF75
+	background: #FFFF75;
+	margin-left: 10%;
+	margin-right: 10%;
 }
 
 .mainheader { 
-	color: #330033;
-	font-size: 2em;
+	color: #3D003D;
+	font-size: 2.5em;
 	text-align: center;
+
 }
 
 .internallink {
@@ -18,4 +21,9 @@ html * {
 
 #propic {
 	text-align: center;
+}
+
+.bio {
+	text-indent: 5%;	
+	text-align: justify;
 }
