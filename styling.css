@@ -2,15 +2,32 @@ body {
 	font-size: 1em;
 	color: #1A1A1A;
 	font-family: Arial;
-	background: #FFFF75;
+	background: #FFFF85;
 	margin-left: 10%;
 	margin-right: 10%;
 }
 
+a:link {
+	text-decoration: none;
+	color: #550055;
+}
+a:visited {
+	text-decoration: none;
+	color: #3D003D;
+}
+a:hover {
+	text-decoration: underline;
+}
+a:active {
+	text-decoration: underline;
+	color: #990099;
+}
+
 .mainheader { 
 	color: #3D003D;
-	font-size: 2.5em;
+	font-size: 3em;
 	text-align: center;
+	text-shadow: 2px 2px #000000;
 
 }
 
