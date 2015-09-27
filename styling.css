@@ -50,12 +50,15 @@ a:active {
 }
 
 .date {
-	width: 20%;
-	background-color: #FF0000;
+	font-size: 1.2em;
+	padding-left: 5%;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	/* background-color: #FF0000; */
 }
 .description {
-	width: 80%;
-	background-color: #00FF00;
+	padding-left: 15%;
+	/* background-color: #00FF00; */
 }
 #propic {
 	text-align: center;
