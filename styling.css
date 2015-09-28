@@ -56,7 +56,7 @@ a:active {
 	padding-top: 5px;
 	padding-bottom: 5px;
 	padding-left: 5%;
-	padding-right: 5%;
+	/* padding-right: 5%; */
 	background-color: #FFADFF;
 }
 
@@ -72,11 +72,13 @@ a:active {
 .title {
 	font-size: 1.3em;
 	font-weight: bold;
+	padding-right: 5%;
 	padding-left: 10%;
 }
 
 .description {
 	text-indent: 5%;
+	padding-right: 5%;
 	padding-left: 10%;
 	padding-top: 5px;
 	padding-bottom: 5px;
@@ -95,5 +97,6 @@ a:active {
 	font-style: italic;
 	padding-top: 5px;
 	padding-bottom: 5px;
+	padding-right: 5%;
 	padding-left: 5%;
 }
