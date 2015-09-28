@@ -29,10 +29,10 @@ a:active {
 
 .mainheader { 
 	margin: 10px;
-	color: #3D003D;
+	color: #550055;
 	font-size: 3em;
 	text-align: center;
-	text-shadow: 2px 2px #000000;
+	text-shadow: 2px 2px #888888;
 	width: 100%;
 }
 
@@ -55,14 +55,16 @@ a:active {
 	width: 100%;
 	padding-top: 5px;
 	padding-bottom: 5px;
+	padding-left: 5%;
+	padding-right: 5%;
 	background-color: #FFADFF;
 }
 
 .date {
 	width: 40%;
+	min-width: 150px;
 	font-size: 1.3em;
 	font-style: bold;
-	padding-left: 5%;
 	padding-bottom: 5px;
 	padding-top: 5px;
 	/* background-color: #FF0000; */
@@ -71,12 +73,12 @@ a:active {
 .title {
 	font-size: 1.3em;
 	font-style: bold;
-	padding-left: 15%;
+	padding-left: 10%;
 }
 
 .description {
 	text-indent: 5%;
-	padding-left: 15%;
+	padding-left: 10%;
 	padding-top: 5px;
 	padding-bottom: 5px;
 	/* background-color: #00FF00; */
