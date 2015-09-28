@@ -64,15 +64,14 @@ a:active {
 	width: 40%;
 	min-width: 150px;
 	font-size: 1.3em;
-	font-style: bold;
+	font-weight: bold;
 	padding-bottom: 5px;
 	padding-top: 5px;
-	/* background-color: #FF0000; */
 }
 
 .title {
 	font-size: 1.3em;
-	font-style: bold;
+	font-weight: bold;
 	padding-left: 10%;
 }
 
@@ -81,7 +80,6 @@ a:active {
 	padding-left: 10%;
 	padding-top: 5px;
 	padding-bottom: 5px;
-	/* background-color: #00FF00; */
 }
 
 #propic {
@@ -89,7 +87,6 @@ a:active {
 }
 
 .bio {
-	/* text-indent: 5%;	*/
 	text-align: justify;
 }
 
