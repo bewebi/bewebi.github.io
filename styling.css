@@ -59,6 +59,7 @@ a:active {
 }
 
 .date {
+	width: 40%;
 	font-size: 1.3em;
 	font-style: bold;
 	padding-left: 5%;
@@ -80,6 +81,7 @@ a:active {
 	padding-bottom: 5px;
 	/* background-color: #00FF00; */
 }
+
 #propic {
 	text-align: center;
 }
@@ -87,4 +89,12 @@ a:active {
 .bio {
 	/* text-indent: 5%;	*/
 	text-align: justify;
+}
+
+#disclaimer {
+	font-size: .8em;
+	font-style: italic;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5%;
 }
