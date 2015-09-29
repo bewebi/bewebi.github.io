@@ -5,7 +5,7 @@ Tufts University; Comp20
 Bernie Birnbaum
 
 1. Aspects Implemented
-  I completed all aspects of this assignment including:
+<br>  I completed all aspects of this assignment including:
   - All files including directories are in bewebi.github.io.
   - Using Git constantly, committing with meaningful messages and pushing to GitHub.
   - A README file that briefly describes my work.
@@ -16,7 +16,7 @@ Bernie Birnbaum
   - An index.html page hosted in my Tufts CS account that redirects to my actual website on GitHub.
 
 2. Collaboration
-  The only person I discussed this assignment with was my dad who provided general advice for using CSS.
+<br>  The only person I discussed this assignment with was my dad who provided general advice for using CSS.
 
 3. Time Spent
-  I spent about six hours on this assignment; four setting up, structuring, and styling the site and two generating content.
+<br>  I spent about six hours on this assignment; four setting up, structuring, and styling the site and two generating content.
