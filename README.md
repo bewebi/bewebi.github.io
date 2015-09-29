@@ -1,7 +1,7 @@
 # bewebi.github.io
 
-Assignment 1 - Your Portfolio
-Tufts University; Comp20
+Assignment 1 - Your Portfolio <br>
+Tufts University; Comp20 <br>
 Bernie Birnbaum
 
 1. Aspects Implemented
