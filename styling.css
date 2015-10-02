@@ -55,7 +55,7 @@ a:active {
 	width: 100%;
 	padding-top: 5px;
 	padding-bottom: 5px;
-	padding-left: 5%;
+	/* padding-left: 5%; */
 	/* padding-right: 5%; */
 	background-color: #FFADFF;
 }
@@ -65,12 +65,13 @@ a:active {
 	min-width: 150px;
 	font-size: 1.3em;
 	font-weight: bold;
+	padding-left: 5%;
 	padding-bottom: 5px;
 	padding-top: 5px;
 }
 
 .title {
-	font-size: 1.3em;
+	font-size: 1.4em;
 	font-weight: bold;
 	padding-right: 5%;
 	padding-left: 10%;
@@ -92,7 +93,8 @@ a:active {
 	text-align: justify;
 }
 
-#disclaimer {
+.disclaimer {
+	text-align: center;
 	font-size: .8em;
 	font-style: italic;
 	padding-top: 5px;
